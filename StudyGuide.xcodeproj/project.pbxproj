@@ -48,6 +48,7 @@
 		36925FE422F1EE6900FE441D /* StudyGuideUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyGuideUITests.swift; sourceTree = "<group>"; };
 		36925FE622F1EE6900FE441D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		36925FF222F1F1A000FE441D /* TheBasics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TheBasics.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		36925FF322F3319200FE441D /* BasicOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BasicOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +102,7 @@
 				36925FC422F1EE6800FE441D /* AppDelegate.swift */,
 				36925FC622F1EE6800FE441D /* ViewController.swift */,
 				36925FF222F1F1A000FE441D /* TheBasics.playground */,
+				36925FF322F3319200FE441D /* BasicOperators.playground */,
 				36925FC822F1EE6800FE441D /* Main.storyboard */,
 				36925FCB22F1EE6900FE441D /* Assets.xcassets */,
 				36925FCD22F1EE6900FE441D /* LaunchScreen.storyboard */,
